@@ -95,4 +95,5 @@ Term duration
 💼 Operational Efficiency: Reduce manual risk assessment efforts
 
 6. Screenshots / Demos
+   https://github.com/rahul251296/Loan-Default/blob/main/loan%20overview.PNG
    
